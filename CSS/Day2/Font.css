@@ -1,0 +1,32 @@
+@font-face{
+    src:url('Font/DancingScript-VariableFont_wght.ttf');
+    font-family: DS;
+}
+body{
+    background-color:black;
+}
+h1{
+    color: lightcoral;
+    font-size: 30px;
+    font-weight:lighter;
+    font-style: bold;
+    font-family: sans-serif,'Lucida Sans';
+}
+
+#m1{
+    color: #42898b;
+    font-family: 'Handjet';
+    font-size: 1.3em;
+    font-weight: lighter;
+    font-style: italic;
+}
+#m2{
+    color: rgba(255, 253, 249, 0.598);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+#s{
+    color: hsl(51, 86%, 36%);
+    font-family: 'DS';
+    font-size: large;
+}
