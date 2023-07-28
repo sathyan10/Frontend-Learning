@@ -1,0 +1,13 @@
+h2{
+    border-style: groove;
+    border-width:10px;
+    border-color:aqua;
+    border-radius: 100px;
+}
+#p1{
+    border-bottom: solid red;
+    border-left: solid red;
+}
+#p2{
+    border: dotted black;
+}
