@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+ 
+}
+#container{
+    background-color: hsl(180, 40%, 75%);
+    height: 50vh;
+}
+.c1{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    text-align:center;
+    background-color: aliceblue;
+    padding: 30px;
+}
+
+#a{
+float: left;
+}
+#b{
+float: left;
+}
