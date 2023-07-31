@@ -1,0 +1,11 @@
+body{
+    border:10px solid red;
+}
+#i1{
+    float: left;
+}
+.c1{
+    float:right;
+    display: flow-root;
+    margin-top:auto;
+}
